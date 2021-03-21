@@ -1,0 +1,15 @@
+*.s#*
+*.b#*
+*.pro
+*.job
+*.lck
+*.tmp
+*.aux
+*.log
+*.tex
+*~$*
+*.pdsbak
+*.synctex
+*.workspace
+desktop.ini
+DESCRIPTION
